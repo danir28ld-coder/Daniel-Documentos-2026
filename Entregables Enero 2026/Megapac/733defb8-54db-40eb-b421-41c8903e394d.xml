@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/CartaPorte31 http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte31.xsd" Version="4.0" Serie="GMF" Folio="911417" Fecha="2026-01-02T12:48:56" Sello="Qbbd+HPgB+/on5h+J5ClzpfYVJzSAA4C6e9n9JPfbCZZpvs3flT3mhxuGUBEIo0hHUDCNGnH176FU8CVDHDjUnJ06ss+eT3DXg8J1sn/1wYkLYnjJvbE+HuyQoq/VzQlNZi6PQBMlLCOblEhJXhRZhEMGnoJek04MVChGb8S1IcHmNnXpOGLknrcoVFObrwuKO4wo4iUS4Ewq2tuzNNJBBBqmxA+BgN4nF8OoQMNW8dDgbMww6bZvpnFxa5dFiDGA1NAh9Cyx+vS3OmXYWdKh+CaLyXwgmWRSXw1jMIwTEORrBh/Gd0Cs2ixQDwT6eulULh4Td2Dcds6SJOl8d1RrQ==" FormaPago="99" NoCertificado="30001000000500002624" Certificado="MIIF1DCCA7ygAwIBAgIUMzAwMDEwMDAwMDA1MDAwMDI2MjQwDQYJKoZIhvcNAQELBQAwggErMQ8wDQYDVQQDDAZBQyBVQVQxLjAsBgNVBAoMJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExGjAYBgNVBAsMEVNBVC1JRVMgQXV0aG9yaXR5MSgwJgYJKoZIhvcNAQkBFhlvc2Nhci5tYXJ0aW5lekBzYXQuZ29iLm14MR0wGwYDVQQJDBQzcmEgY2VycmFkYSBkZSBjYWxpejEOMAwGA1UEEQwFMDYzNzAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBDSVVEQUQgREUgTUVYSUNPMREwDwYDVQQHDAhDT1lPQUNBTjERMA8GA1UELRMIMi41LjQuNDUxJTAjBgkqhkiG9w0BCQITFnJlc3BvbnNhYmxlOiBBQ0RNQS1TQVQwHhcNMjMwMTEyMDE1NzEyWhcNMjcwMTExMDE1NzEyWjCByTEgMB4GA1UEAxMXTUlHVUVMIExBVVJFTCBNQUxET05BRE8xIDAeBgNVBCkTF01JR1VFTCBMQVVSRUwgTUFMRE9OQURPMSAwHgYDVQQKExdNSUdVRUwgTEFVUkVMIE1BTERPTkFETzELMAkGA1UEBhMCTVgxHzAdBgkqhkiG9w0BCQEWEGpvcmdlQGdtYWlsLmN2b20xFjAUBgNVBC0UDUJB0UU0MDA3MTVTRTYxGzAZBgNVBAUTEk1BT0o4ODA3MDZIREZSTFIwNzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKPCOiZd6FzjHNdB7KcNI2Fa/qyWsbh9WWBun13v3n/x+PcuiD8P3lRqTE004MBYUNE9tYJdIxM03LdMTdaIoZiFcWN2MNVHuhFsYoiq6Jn0KJT70Y4KwNBkoOUCJ1lNXh3UwDctIRoNH8qtSXK++/OKwagCgRpZokS4rRyA0jQzQJCT2O3Um3FgR3NP6sXPKLc6SAu9tPMi7gAJC1jhR1i8gVcdKW6bDi9k/PlDDsiK7vOtR+gCTPtVvxGLYBmRa9xr2Uy8cE5+AIgdS9cT8FHTMVrZpULS8VKd9AubrMLVjKMEVPxMQvJOAsmxtO4rYWfs+4sC8XQF+E+Fb5F1BUkCAwEAAaNPME0wDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCA9gwEQYJYIZIAYb4QgEBBAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjANBgkqhkiG9w0BAQsFAAOCAgEAVJypvfN0VADiH13Qxq84aP1Mx3hS4icw2X5SREmXWuWqyl/5uLMs+TLFPGc0cLvNk0h/zwCYSba7bSrPRS2NAa5Yq1tvPVj/QTBFRT+yUAQ+gH9O/LA09ghlOURa1a9cOwGpLoXCUndFWeQohfkQPwxZRmO1ZFEaOUkiYWCcxwQCHb+GU2S/fCa7PCeEoq0SLZj9r3GaoAHdSXkUTz97q9cjBSK1Em/UtWHMibyqHWTyq00eTalXYqw7pOaJ7A0mmKkuNtonu2IZlyReCR3sBGKWwvdhh9NujmMKFp6nqM+z3Y8uzMbRPJkjY8fD1/5oV0BLAujNRXDux81tHIYXQHObQKGWvl4Eot2deAarC9D6B3tp7WlLUo13Hx4q/Kr+f7VTjG1kBvXmj6TnMa1N1D6m2OwQx++7VdxlHaJQjdHn1fH9IzcLZMjwWhMW5n1wPn+e9yzxCJDcbh8t6htfG1kgGj+OIBLz2NXE7zFid+FU9zbhuuu0lPbOHynHl4jcWbtkm9G3SW0UQIoFBnjY2AQarV1Q8AI9s7eMCXfAa2JQaeCvF8iK2tBsP6hwXbN+u9Lihhuw7ArAy39wO1TmPeLMWLFQycoUQzl6olwv6OZ0gjIUfrjYi957U8nGNzUmgR0pzeMqXgPNXliCR0IXhn2SeCifwGoodkFHd+TW7EI=" SubTotal="32231.00" Moneda="MXN" Total="32587.96" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="21229" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cartaporte31="http://www.sat.gob.mx/CartaPorte31">
+  <cfdi:Emisor Rfc="BAÑE400715SE6" Nombre="MIGUEL LAUREL MALDONADO" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="VADA800927DJ3" Nombre="HECTOR HERNANDEZ LOPEZ" DomicilioFiscalReceptor="21165" RegimenFiscalReceptor="612" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="15101514" NoIdentificacion="1" Cantidad="100" ClaveUnidad="LTR" Unidad="litro" Descripcion="Hidrocarburos y Petroliferos" ValorUnitario="22.31" Importe="2231.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2231.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="356.960000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78101800" Cantidad="3" ClaveUnidad="E48" Unidad="por carretera" Descripcion="Transporte" ValorUnitario="10000" Importe="30000.000000" ObjetoImp="01" />
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="356.96">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="2231.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="356.96" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <cartaporte31:CartaPorte Version="3.1" IdCCP="CCC5944D-B630-4B2D-B2C9-BD2B945CEB7A" TranspInternac="No" TotalDistRec="10000">
+      <cartaporte31:Ubicaciones>
+        <cartaporte31:Ubicacion TipoUbicacion="Origen" RFCRemitenteDestinatario="BAÑE400715SE6" NombreRemitenteDestinatario="MIGUEL LAUREL MALDONADO" FechaHoraSalidaLlegada="2026-01-03T12:14:04">
+          <cartaporte31:Domicilio Localidad="07" Municipio="005" Estado="CMX" Pais="MEX" CodigoPostal="07800" />
+        </cartaporte31:Ubicacion>
+        <cartaporte31:Ubicacion TipoUbicacion="Destino" RFCRemitenteDestinatario="GALA880425D97" NombreRemitenteDestinatario="DANIEL ALEJANDRO VAZQUE LOPEZ" FechaHoraSalidaLlegada="2026-01-04T12:14:04" DistanciaRecorrida="10000.00">
+          <cartaporte31:Domicilio Colonia="0095" Localidad="02" Municipio="002" Estado="BCN" Pais="MEX" CodigoPostal="21229" />
+        </cartaporte31:Ubicacion>
+      </cartaporte31:Ubicaciones>
+      <cartaporte31:Mercancias PesoBrutoTotal="100.000" UnidadPeso="KGM" PesoNetoTotal="105.000" NumTotalMercancias="1">
+        <cartaporte31:Mercancia BienesTransp="15101515" Descripcion="Gasolina premium" Cantidad="100.000000" ClaveUnidad="LTR" Unidad="LTR" MaterialPeligroso="No" PesoEnKg="100.000" />
+        <cartaporte31:Autotransporte PermSCT="TPAF01" NumPermisoSCT="123123231">
+          <cartaporte31:IdentificacionVehicular ConfigVehicular="C2" PesoBrutoVehicular="10000.00" PlacaVM="1WEQWE2" AnioModeloVM="2016" />
+          <cartaporte31:Seguros AseguraRespCivil="21312313" PolizaRespCivil="WQDQWE12" />
+        </cartaporte31:Autotransporte>
+      </cartaporte31:Mercancias>
+      <cartaporte31:FiguraTransporte>
+        <cartaporte31:TiposFigura TipoFigura="01" RFCFigura="MAMS820313L41" NumLicencia="2312331" NombreFigura="DANIEL ROBLES" />
+      </cartaporte31:FiguraTransporte>
+    </cartaporte31:CartaPorte>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="733DEFB8-54DB-40EB-B421-41C8903E394D" FechaTimbrado="2026-01-02T12:51:31" RfcProvCertif="MES801103AD2" Leyenda="Esta es una prueba de un CFDi 40 UAT" SelloCFD="Qbbd+HPgB+/on5h+J5ClzpfYVJzSAA4C6e9n9JPfbCZZpvs3flT3mhxuGUBEIo0hHUDCNGnH176FU8CVDHDjUnJ06ss+eT3DXg8J1sn/1wYkLYnjJvbE+HuyQoq/VzQlNZi6PQBMlLCOblEhJXhRZhEMGnoJek04MVChGb8S1IcHmNnXpOGLknrcoVFObrwuKO4wo4iUS4Ewq2tuzNNJBBBqmxA+BgN4nF8OoQMNW8dDgbMww6bZvpnFxa5dFiDGA1NAh9Cyx+vS3OmXYWdKh+CaLyXwgmWRSXw1jMIwTEORrBh/Gd0Cs2ixQDwT6eulULh4Td2Dcds6SJOl8d1RrQ==" NoCertificadoSAT="30001000000500002554" SelloSAT="CmaqbSPjCBaNnf6MvkQhGWuetNbomtVs34EzrPRg1j35zA/McJEbTCuu4snd6Um++ZmA1t/WOd5/YIjmCyFF3xe386kb7o04cALmKqaW7VpOMRuSW5G9RJas11R9yOt+l5cWnphXQ/Lb0WCCdPuL7ldiNpLr8h4EcK8G2+/lk3HmEB5AbnGcM9N1KGsaLqQcGOnbIcjxNIH2qI4AdJLRmbzw6+Dk6cyy0nc2QHB2SLxwNhxFMFFGPBgLpxmsnXkp9O6e5OTDdjlA0JvMIFW/zEjckQmicuMai9+R02OTSXSJp0RhuvMtQzl+QIJQWKwHOZbmbu3QmD51A0Tz0S8+zQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
