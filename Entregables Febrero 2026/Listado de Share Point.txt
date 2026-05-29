@@ -1,0 +1,19 @@
+Listado de registros en SharePoint
+
+REQS00002310326 Se realizo la prueba y ya permite seleccionar la opción de“Recuperar descargas - Detalle de consulta de incidentes".
+REQS00002309898 - Consulta Central Retenciones, no descarga la representación impresa (RI)
+REQS00002309901 - Consulta Central, no aplica de forma correcta los filtros de Tipo de Comprobante (Complemento)
+
+REQS00002310314 - Generación de PDF: Al realizar una consulta por fecha y solicitar el archivo PDF, el sistema no genera el folio de descarga de manera asíncrona.
+REQS00002310320 - Generación de JSON: Al realizar una consulta por fecha y solicitar el archivo JSON, el sistema no genera el folio de descarga de manera asíncrona.
+REQS00002310326 - Recuperación de descargas: Al seleccionar la opción "Recuperar descargas Detalle de consulta de incidencias", el sistema muestra el error: “Ha ocurrido un error al procesar su última acción”. (Referencia para reporte: 71872bd1-16dd-480d-ba65-5c8cfe1f7570).
+
+REQS00002310675 -  ya que al querer ingresar al Portal de Incidencias de CFDI y CFDI Retenciones marca el siguiente error:
+Server Error in '/' Application.
+Runtime Error Description: An exception occurred while processing your request. Additionally, another exception occurred while executing the custom error page for the first exception. The request has been terminated.
+
+REQS00002310945 - al realizar una consulta y seleccionar el icono de detalle, el sistema presenta un tiempo de respuesta de aproximadamente un minuto para desplegar la subpantalla
+
+REQS00002311761 - informamos que desde el día de ayer se generaron solicitudes de descarga asíncrona correspondientes a laConsulta de Incidencias de CFDI y Retenciones. No obstante, hasta el momento no ha sido posible visualizar los folios de descarga asociados a dichas solicitudes.
+
+REQS00002310945 "Cerrado"- Actualización - 19/02/2026 Se solicto un reintento al usuario y ya no se presenta demora en su despliegue.

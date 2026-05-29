@@ -1,2 +1,0 @@
-Para cancelar un CFDI cuando tiene otro CFDI relacionado, debemos cancelar ambos _UUID No cumple con estructura.
-y se puede hacer directamente cuando quieres cancelar un CFDI y agregas el folio del relacionado _UUID No cumple con estructura.

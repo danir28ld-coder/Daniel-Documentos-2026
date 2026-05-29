@@ -1,0 +1,16 @@
+Petición Token
+||SPR190613I52|30001000000500003456|07-05-2026 18:00:00|Petición firmada||
+
+Petición Consulta - Segunda firma PAC
+||SPR190613I52|07-05-2026 18:00:00|30001000000500003456|Petición firmada por el Receptor||
+
+
+Petición Consulta - Primera firma EMISOR-RECEPTOR
+
+||EIRJ780723QE3|AAML920925E50|8|30001000000500010891|Petición firmada por el Receptor||
+
+
+||BACF891210PH0|AAML920925E50|9|30001000000500010891|Petición firmada por el Receptor||
+
+
+||LADB9205132N5|AAML920925E50|10|30001000000500010891|Petición firmada por el Receptor||

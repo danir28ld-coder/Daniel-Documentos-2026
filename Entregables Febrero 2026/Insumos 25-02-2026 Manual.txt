@@ -1,0 +1,35 @@
+Peticion Token
+||SPR190613I52|30001000000500003456|25-02-2026 18:00:00|Petición firmada||
+
+Petición Consulta - Segunda firma PAC
+||SPR190613I52|25-02-2026 18:00:00|30001000000500003456|Petición firmada por el Receptor||
+
+Petición Consulta - Primera firma
+||AELC900321MB8|MORK930617MG9|1|30001000000500010880|Petición firmada por el Receptor||
+
+
+||AERA660921L4A|RAHA820325ER7|1|30001000000500010881|Petición firmada por el Receptor||
+
+
+||RAAL720826PX0|AERA660921L4A|2|30001000000500010894|Petición firmada por el Receptor||
+
+
+||ROME871130C99|AERA660921L4A|2|30001000000500010894|Petición firmada por el Receptor||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
