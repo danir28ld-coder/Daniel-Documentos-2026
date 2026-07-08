@@ -1,0 +1,15 @@
+Petición Token
+||VEBD760303I20|30001000000500003248|26-06-2026 18:00:00|Petición firmada||
+
+Petición Consulta - Segunda firma PAC
+||VEBD760303I20|26-06-2026 18:00:00|30001000000500003248|Petición firmada por el Receptor||
+
+Petición Consulta - Primera firma EMISOR-RECEPTOR
+||MESO640709QH7|AAMT450528NI0|1|30001000000500010888|Petición firmada por el Receptor||
+
+
+||AERA660921L4A|AAMT450528NI0|1|30001000000500010888|Petición firmada por el Receptor||
+
+
+||QUQA5812156E1|AAMT450528NI0|2|30001000000500010888|Petición firmada por el Receptor||
+

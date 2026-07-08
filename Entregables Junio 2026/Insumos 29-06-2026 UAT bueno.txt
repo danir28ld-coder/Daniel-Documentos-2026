@@ -1,0 +1,15 @@
+Petición Token
+||SPR190613I52|30001000000500003456|29-06-2026 18:00:00|Petición firmada||
+
+Petición Consulta - Segunda firma PAC
+||SPR190613I52|29-06-2026 18:00:00|30001000000500003456|Petición firmada por el Receptor||
+
+Petición Consulta - Primera firma EMISOR-RECEPTOR
+||RASA760107GP7|AAMT450528NI0|4|30001000000500010888|Petición firmada por el Receptor||
+
+
+||AEMM660128G18|AAMT450528NI0|4|30001000000500010888|Petición firmada por el Receptor||
+
+
+||QUQA5812156E1|AAMT450528NI0|2|30001000000500010888|Petición firmada por el Receptor||
+

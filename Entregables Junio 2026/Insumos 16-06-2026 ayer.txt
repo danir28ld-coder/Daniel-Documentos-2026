@@ -1,0 +1,19 @@
+Petición Token
+||SPR190613I52|30001000000500003456|16-06-2026 18:00:00|Petición firmada||
+
+Petición Consulta - Segunda firma PAC
+||SPR190613I52|16-06-2026 18:00:00|30001000000500003456|Petición firmada por el Receptor||
+
+Petición Consulta - Primera firma EMISOR-RECEPTOR
+||AAAA650401SIA|VEBD760303I20|4|30001000000500003248|Petición firmada por el Receptor||
+
+
+||AAAA650401SIA|RAGR760807952|4|30001000000500010876|Petición firmada por el Receptor||
+
+
+||VEBD760303I20|RAGR760807952|4|30001000000500010876|Petición firmada por el Receptor||
+
+
+||VEBD760303I20|AAAA650401SIA|4|30001000000400010523|Petición firmada por el Receptor||
+
+

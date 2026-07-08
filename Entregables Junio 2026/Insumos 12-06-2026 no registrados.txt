@@ -1,0 +1,19 @@
+Petición Token
+||SPR190613I52|30001000000500003456|12-06-2026 18:00:00|Petición firmada||
+
+Petición Consulta - Segunda firma PAC
+||SPR190613I52|12-06-2026 18:00:00|30001000000500003456|Petición firmada por el Receptor||
+
+Petición Consulta - Primera firma EMISOR-RECEPTOR
+||RASA760107PG8|AEMM660128L40|4|30001000000500010876|Petición firmada por el Receptor||
+
+
+||AEMM660128L40|RAGR760807952|4|30001000000500010876|Petición firmada por el Receptor||
+
+
+||RASA760107PG8|RAGR760807952|4|30001000000500010876|Petición firmada por el Receptor||
+
+
+||AEMM660128L40|RASA760107PG8|4|30001000000500010876|Petición firmada por el Receptor||
+
+
